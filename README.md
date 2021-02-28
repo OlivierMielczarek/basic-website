@@ -1,3 +1,3 @@
-### basic-website
+# basic-website
 
 The basic assets for your website
